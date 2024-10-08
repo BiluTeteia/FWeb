@@ -1,0 +1,29 @@
+main{
+    display: flex;
+    height: 100vh;
+}
+
+.img{
+    height: 70px;
+    width: 70px;
+    padding: 10px;
+    border-radius: 50px;
+}
+
+footer{
+    display: flex;
+    justify-content: space-between;
+    padding: 25px;
+}
+
+.socials{
+    display: flex;
+    gap: 50px;
+}
+
+.social{
+    display: flex;
+    gap: 10px;
+    text-decoration: none;
+    font-family: sans-serif;
+}
